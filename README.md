@@ -10,7 +10,7 @@
 |金|https://github.com/kimgeonguk/kadai-matome|
 |玉井|https://github.com/chihiro390/Exercise1|
 |堂前||
-|戸田|https://github.com/hiroto1130/-|
+|戸田|https://github.com/hiroto1130/directX_subject|
 |中島|https://github.com/ShoumaNakajima/Exercise|
 |中村|https://github.com/MinoriNakamura/Exercise1|
 |松本|https://github.com/m-kazumasa/practice|
