@@ -13,7 +13,7 @@
 |戸田|https://github.com/hiroto1130/directX_subject|
 |中島|https://github.com/ShoumaNakajima/Exercise|
 |中村|https://github.com/MinoriNakamura/Exercise1|
-|松本|https://github.com/m-kazumasa/practice|
+|松本|https://github.com/m-kazumasa/exercise|
 |的場|https://github.com/Matoba0706/Introduction_Task1|
 |延|https://github.com/yky0126/Yeon_Folder|
 
