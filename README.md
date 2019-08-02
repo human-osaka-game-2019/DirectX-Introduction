@@ -15,7 +15,7 @@
 |中村|https://github.com/MinoriNakamura/Exercise1|
 |松本|https://github.com/m-kazumasa/exercise|
 |的場|https://github.com/Matoba0706/Introduction_Task1|
-|延|https://github.com/yky0126/Yeon_Folder|
+|延|https://github.com/yky0126/Exercise_Teisyutsu|
 
 課題の内容はこちら→ https://taishi-matsumura.github.io/exam/DirectX_2D/index.html
 
